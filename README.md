@@ -20,3 +20,7 @@ A simple book-selling website built using **HTML**, **CSS**, and **JavaScript**.
    ```bash
    git clone https://github.com/salmanrafiqq/ReadU
 
+## Live Preview
+
+You can view the live preview of the website here:  
+[ReadU](https://salmanrafiqq.github.io/ReadU/)
